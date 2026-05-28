@@ -29,11 +29,9 @@ curl -fsSL https://github.com/jhordideamarall/mira-agent-v1/releases/latest/down
 
 <div align="center">
 
-<video src="https://res.cloudinary.com/det0thpgd/video/upload/v1779962371/Memory_from_Mira_Agent_ts8ygj.mp4" controls muted playsinline width="80%"></video>
+[![Watch Mira's memory demo](assets/memory-poster.png)](https://res.cloudinary.com/det0thpgd/video/upload/v1779962371/Memory_from_Mira_Agent_ts8ygj.mp4)
 
-[▶ Watch the memory demo](https://res.cloudinary.com/det0thpgd/video/upload/v1779962371/Memory_from_Mira_Agent_ts8ygj.mp4)
-
-<sub><em>Mira's living memory graph — your work, connected, on-device.</em></sub>
+<sub><em>Mira's living memory graph — your work, connected, on-device. ▶ Click to play.</em></sub>
 
 </div>
 
