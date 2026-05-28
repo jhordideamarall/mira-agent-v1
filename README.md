@@ -29,7 +29,9 @@ curl -fsSL https://github.com/jhordideamarall/mira-agent-v1/releases/latest/down
 
 <div align="center">
 
-https://github.com/jhordideamarall/mira-agent-v1/raw/main/assets/memory.mp4
+<video src="https://res.cloudinary.com/det0thpgd/video/upload/v1779962371/Memory_from_Mira_Agent_ts8ygj.mp4" controls muted playsinline width="80%"></video>
+
+[▶ Watch the memory demo](https://res.cloudinary.com/det0thpgd/video/upload/v1779962371/Memory_from_Mira_Agent_ts8ygj.mp4)
 
 <sub><em>Mira's living memory graph — your work, connected, on-device.</em></sub>
 
@@ -43,8 +45,6 @@ https://github.com/jhordideamarall/mira-agent-v1/raw/main/assets/memory.mp4
 | **Per-agent models** — each agent on its own model. | **Your own accounts** — Claude Code, Codex, DeepSeek. |
 | ![Mind-Dump](assets/mind-dump.png) |  |
 | **Mind-Dump** — speak freely; Mira structures it into memory. |  |
-
-> If the video above doesn't play inline, [open it here](assets/memory.mp4).
 
 ---
 
