@@ -25,6 +25,29 @@ curl -fsSL https://github.com/jhordideamarall/mira-agent-v1/releases/latest/down
 
 ---
 
+## See it in action
+
+<div align="center">
+
+https://github.com/jhordideamarall/mira-agent-v1/raw/main/assets/memory.mp4
+
+<sub><em>Mira's living memory graph — your work, connected, on-device.</em></sub>
+
+</div>
+
+|  |  |
+|---|---|
+| ![Chat with Mira](assets/chat-mira.png) | ![The agent team](assets/Agent-mira.png) |
+| **Chat with Mira** — one decisive interface. | **The agent team** — Atlas, Lyra, Aegis & specialists. |
+| ![Per-agent models](assets/Agent-mira-model.png) | ![Model connectors](assets/connector-model.png) |
+| **Per-agent models** — each agent on its own model. | **Your own accounts** — Claude Code, Codex, DeepSeek. |
+| ![Mind-Dump](assets/mind-dump.png) |  |
+| **Mind-Dump** — speak freely; Mira structures it into memory. |  |
+
+> If the video above doesn't play inline, [open it here](assets/memory.mp4).
+
+---
+
 ## Why Mira
 
 - **🧠 An orchestration layer, not a single model.** One Mira (CEO, Claude Opus 4.7) delegates to a **dynamic, token-lean agent team** — Atlas plans, Lyra builds, Aegis reviews; complex work auto-summons The Sentinel, The Chronicler, and an on-demand specialist (Security / UI / Data / Performance). Every agent is a real reasoning pass, not a script.
